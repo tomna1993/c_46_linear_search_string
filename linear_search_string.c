@@ -6,4 +6,7 @@
 int main(void)
 {
     string names[ARRAY_LENGTH] = {"Tomas", "David", "Maggie", "Julia", "Peter", "Ruby"};
+
+    string get_user_string = get_string("String: ");
+
 }
