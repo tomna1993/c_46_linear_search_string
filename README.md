@@ -7,3 +7,5 @@ A linear search is the simplest approach employed to search for an element in a 
 [Linear search on Wiki](https://en.wikipedia.org/wiki/Linear_search)
 
 ![Linear search gif](./image/linear_search.gif)
+
+To compare strings I have to use a function called [`strcmp(str1, str2)`](https://www.tutorialspoint.com/c_standard_library/c_function_strcmp.htm) from `string.h` library.
